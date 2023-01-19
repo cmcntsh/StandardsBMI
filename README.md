@@ -9,6 +9,10 @@
 
 ## Principles of Standard Terminologies
 
+* Cimino J. J. (1998). Desiderata for controlled medical vocabularies in the twenty-first century. Methods of information in medicine, 37(4-5), 394–403.
+* Cimino J. J. (2006). In defense of the Desiderata. Journal of biomedical informatics, 39(3), 299–306. https://doi.org/10.1016/j.jbi.2005.11.008
+* Request a UMLS license: https://www.nlm.nih.gov/research/umls/index.html (I use Google.)
+
 ## LOINC
 
 ## SNOMED CT
