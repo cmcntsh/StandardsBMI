@@ -23,6 +23,15 @@
 
 ## SNOMED CT
 
+* Wang AY, Sable JH, Spackman KA: The SNOMED clinical terms development process: refinement and analysis of content. Proc AMIA Symp: 2002:845-849.
+* Lee D, KeKeizer N, Lau F, Cornet R. Literature review of SNOMED CT use. JAMIA 2014. 21:e11-e19.
+* https://www.snomed.org/
+* https://browser.ihtsdotools.org/?
+* https://www.snomed.org/news-and-events/articles/demo-clinical-data-analytics-with-snomedct
+* Spackman KA, Campbell KE, Côté RA. SNOMED RT: a reference terminology for health care. Proc AMIA Annu Fall Symp. 1997:640–644.
+* Stearns MQ, Price C, Spackman KA, Wang AY. SNOMED clinical terms: overview of the development process and project status. Proc AMIA Symp. 2001:662–666.
+* Wang AY, Barrett JW, Bentley T, Markwell D, Price C, Spackman KA, Stearns MQ. Mapping between SNOMED RT and Clinical terms version 3: a key component of the SNOMED CT development process. Proc AMIA Symp. 2001:741–745.
+
 ## Reimbursement Terminologies
 
 ## Medications
