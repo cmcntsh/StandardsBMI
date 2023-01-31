@@ -16,6 +16,11 @@
 
 ## LOINC
 
+* Huff SM, Rocha RA, McDonald CJ, et al. Development of the Logical Observation Identifier Names and Codes (LOINC) vocabulary. J Am Med Inform Assoc. 1998 May-Jun;5(3):276-92.
+* McDonald C, et al. LOINC, a Universal Standard for Identifying Laboratory Observations: A 5-Year Update. Clinical Chemistry (2003), 49(4):624–633
+* https://loinc.org/
+* https://loinc.org/search/
+
 ## SNOMED CT
 
 ## Reimbursement Terminologies
