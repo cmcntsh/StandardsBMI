@@ -36,6 +36,8 @@
 
 * Review information about ICD codes on the National Center for Health Statistic/CDC website https://www.cdc.gov/nchs/icd/index.htm?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Fnchs%2Ficd.htm This site describes the history and current status of the Classification of Diseases, Functioning, and Disability, and leads you to links for the terminologies as well.
 * Tudorache T., Nyulas C.I., Noy N.F., Musen M.A. (2013) Using Semantic Web in ICD-11: Three Years Down the Road. In: Alani H. et al. (eds) The Semantic Web – ISWC 2013. ISWC 2013. Lecture Notes in Computer Science, vol 8219. Springer, Berlin, Heidelberg
+* https://icd.who.int/browse10/2016/en
+* https://www.icd10data.com/
 
 ## Medications
 
