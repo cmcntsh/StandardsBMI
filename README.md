@@ -41,6 +41,10 @@
 
 ## Medications
 
+* https://www.nlm.nih.gov/research/umls/rxnorm/overview.html
+* Nelson SJ, Zeng K, Kilbourne J, Powell T, Moore R. Normalized names for clinical drugs: RxNorm at 6 years. J Am Med Inform Assoc. 2011 Jul 1;18(4):441-8. Epub 2011 Apr 21.
+* https://mor.nlm.nih.gov/RxNav/
+
 ## HL7 v2
 
 ## CDA/CCDA
